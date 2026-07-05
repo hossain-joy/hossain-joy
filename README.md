@@ -185,11 +185,11 @@ An OS project implementing a hybrid file compression solution by a collaborative
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-joy&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/>
 </p>
 
-## GitHub Trophies
+<!-- ## GitHub Trophies
 
 <p align="center">
 <img src="https://github-trophies.vercel.app/?username=hossain-joy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
-</p>
+</p> -->
 
 ## GitHub Contribution Snake
 
