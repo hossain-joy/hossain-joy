@@ -99,29 +99,106 @@ Building clean, scalable and modern web applications with Laravel.
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-### Z-Mart
+<table>
+<tr>
 
-Modern e-commerce platform developed with Laravel.
+<td width="50%">
 
----
+### 🛒 HERish 2.0
 
-### Portfolio Website
+A modern jewelry e-commerce platform built with PHP, providing a clean shopping experience and showcasing practical full-stack development skills.
 
-Responsive portfolio showcasing projects and skills.
+**Tech Stack**
 
----
+PHP • MySQL • HTML • CSS • JavaScript
 
-### Blog Platform
+👉 https://github.com/hossain-joy/herish2.0
 
-Blog management system with authentication and admin panel.
+</td>
 
----
+<td width="50%">
 
-### AI Note Management
+### 🍔 Food Delivery Service
 
-Smart note management system powered by AI.
+A food ordering platform featuring restaurant management, user authentication, and responsive design.
+
+**Tech Stack**
+
+TypeScript • Full Stack
+
+👉 https://github.com/hossain-joy/FoodDeliveryService
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🏆 BD Contest Hub
+
+A web platform that helps students discover and participate in programming contests across Bangladesh.
+
+**Tech Stack**
+
+JavaScript
+
+👉 https://github.com/jeba234/BD_contest_Hub
+
+</td>
+
+<td>
+
+### 📊 SpendSense
+
+A personal expense tracker that helps users manage budgets and monitor daily spending.
+
+**Tech Stack**
+
+TypeScript
+
+👉 https://github.com/hossain-joy/spendsense
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📋 Kanban Table
+
+A productivity application with a modern Kanban interface for organizing tasks and projects.
+
+**Tech Stack**
+
+JavaScript
+
+👉 https://github.com/hossain-joy/kanban-table
+
+</td>
+
+<td>
+
+### 🖥️ Hybrid Compression System
+
+An Operating Systems project implementing a hybrid file compression solution developed by a collaborative team.
+
+**Tech Stack**
+
+Shell
+
+👉 https://github.com/nomancsediu/Hybrid-Compression-System
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
