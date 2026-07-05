@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD.%20Ibrahim%20Hossain%20Joy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20PHP%20%7C%20Laravel%20Developer&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+PHP+Developer+%F0%9F%9A%80;Laravel+%7C+Backend+Engineer+%F0%9F%94%A5;Building+Modern+Web+Applications+%F0%9F%8C%90;Docker+%7C+DevOps+%7C+System+Design+%F0%9F%93%A6;Always+Learning+Something+New+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+PHP+Developer;Laravel+%7C+Backend+Engineer;Building+Modern+Web+Applications;Docker+%7C+DevOps+%7C+System+Design;Always+Learning+Something+New" />
 
 <br/>
 
@@ -20,20 +20,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 💫 About Me
+## About Me
 
 ```yaml
 name       : MD. Ibrahim Hossain Joy
 role       : Full Stack PHP Developer
 focus      : Laravel | Backend | Clean Architecture
 learning   : Docker · DevOps · System Design
-location   : Bangladesh 🇧🇩
+location   : Bangladesh
 open_to    : Laravel & Open Source Collaboration
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="YOUR_LINKEDIN">
@@ -49,25 +49,25 @@ open_to    : Laravel & Open Source Collaboration
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 🚀 Currently Building
+## Currently Building
 
 <table>
 <tr>
-<td>⚡ Laravel E-Commerce Platform</td>
-<td>🤖 AI-powered Laravel Applications</td>
+<td>Laravel E-Commerce Platform</td>
+<td>AI-powered Laravel Applications</td>
 </tr>
 <tr>
-<td>🎛️ Admin Dashboards</td>
-<td>🐳 Dockerizing Laravel Projects</td>
+<td>Admin Dashboards</td>
+<td>Dockerizing Laravel Projects</td>
 </tr>
 <tr>
-<td colspan="2">📐 Learning Advanced Backend Architecture</td>
+<td colspan="2">Learning Advanced Backend Architecture</td>
 </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Backend**
 <p>
@@ -91,13 +91,13 @@ open_to    : Laravel & Open Source Collaboration
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 HERish 2.0
+### HERish 2.0
 A modern jewelry e-commerce platform built with PHP, providing a clean shopping experience.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -109,7 +109,7 @@ A modern jewelry e-commerce platform built with PHP, providing a clean shopping 
 </td>
 <td width="50%" valign="top">
 
-### 🍔 Food Delivery Service
+### Food Delivery Service
 A food ordering platform featuring restaurant management, user authentication, and responsive design.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -121,7 +121,7 @@ A food ordering platform featuring restaurant management, user authentication, a
 <tr>
 <td valign="top">
 
-### 🏆 BD Contest Hub
+### BD Contest Hub
 A web platform that helps students discover and participate in programming contests across Bangladesh.
 
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -131,7 +131,7 @@ A web platform that helps students discover and participate in programming conte
 </td>
 <td valign="top">
 
-### 📊 SpendSense
+### SpendSense
 A personal expense tracker that helps users manage budgets and monitor daily spending.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -143,7 +143,7 @@ A personal expense tracker that helps users manage budgets and monitor daily spe
 <tr>
 <td valign="top">
 
-### 📋 Kanban Table
+### Kanban Table
 A productivity application with a modern Kanban interface for organizing tasks and projects.
 
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -153,7 +153,7 @@ A productivity application with a modern Kanban interface for organizing tasks a
 </td>
 <td valign="top">
 
-### 🖥️ Hybrid Compression System
+### Hybrid Compression System
 An OS project implementing a hybrid file compression solution by a collaborative team.
 
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -166,32 +166,32 @@ An OS project implementing a hybrid file compression solution by a collaborative
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hossain-joy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossain-joy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hossain-joy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossain-joy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="41%"/>
 </p>
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=hossain-joy&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=hossain-joy&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
 </p>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-joy&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-joy&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/>
 </p>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hossain-joy&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7"/>
 </p>
 
-## ⚡ GitHub Contribution Snake
+## GitHub Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hossain-joy/hossain-joy/output/github-contribution-grid-snake-dark.svg"/>
@@ -199,10 +199,10 @@ An OS project implementing a hybrid file compression solution by a collaborative
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## 💭 Developer Quote
+## Developer Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
