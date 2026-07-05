@@ -188,7 +188,7 @@ An OS project implementing a hybrid file compression solution by a collaborative
 ## GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hossain-joy&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=hossain-joy&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7"/>
 </p>
 
 ## GitHub Contribution Snake
