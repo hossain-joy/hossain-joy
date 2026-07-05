@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm MD. Ibrahim Hossain Joy
+# Hi, I'm MD. Ibrahim Hossain Joy
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+PHP+Developer;Laravel+Developer;Backend+Engineer;Building+Modern+Web+Applications;Always+Learning+Something+New" />
 
@@ -24,12 +24,12 @@ Building clean, scalable and modern web applications with Laravel.
 
 # 💫 About Me
 
-- 💻 Full Stack PHP Developer
-- 🚀 Passionate about Laravel development
-- 🌱 Currently learning **Docker, DevOps & System Design**
-- ⚡ Love building clean and scalable applications
-- 🤝 Open to collaborating on Laravel and Open Source projects
-- 📍 Bangladesh
+- Full Stack PHP Developer
+- Passionate about Laravel development
+- Currently learning **Docker, DevOps & System Design**
+- Love building clean and scalable applications
+- Open to collaborating on Laravel and Open Source projects
+- Bangladesh
 
 ---
 
@@ -55,11 +55,11 @@ Building clean, scalable and modern web applications with Laravel.
 
 # 🚀 Currently Building
 
-- 🛒 Laravel E-Commerce Platform
-- 🤖 AI-powered Laravel Applications
-- 📊 Admin Dashboards
-- 🐳 Dockerizing Laravel Projects
-- 📚 Learning Advanced Backend Architecture
+- Laravel E-Commerce Platform
+- AI-powered Laravel Applications
+- Admin Dashboards
+- Dockerizing Laravel Projects
+- Learning Advanced Backend Architecture
 
 ---
 
@@ -101,25 +101,25 @@ Building clean, scalable and modern web applications with Laravel.
 
 # 📂 Featured Projects
 
-### 🛒 Z-Mart
+### Z-Mart
 
 Modern e-commerce platform developed with Laravel.
 
 ---
 
-### 🌐 Portfolio Website
+### Portfolio Website
 
 Responsive portfolio showcasing projects and skills.
 
 ---
 
-### 📝 Blog Platform
+### Blog Platform
 
 Blog management system with authentication and admin panel.
 
 ---
 
-### 🤖 AI Note Management
+### AI Note Management
 
 Smart note management system powered by AI.
 
@@ -179,7 +179,7 @@ Smart note management system powered by AI.
 
 ---
 
-# 📅 2026 Goals
+<!-- # 📅 2026 Goals
 
 - ✅ Master Laravel
 - ✅ Build Production Ready Projects
@@ -189,7 +189,7 @@ Smart note management system powered by AI.
 - ⬜ Contribute to Open Source
 - ⬜ Build a SaaS Product
 
----
+---  -->
 
 # 💭 Developer Quote
 
