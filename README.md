@@ -1,208 +1,216 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD.%20Ibrahim%20Hossain%20Joy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20PHP%20%7C%20Laravel%20Developer&descAlignY=55&descSize=18"/>
+<a href="https://github.com/hossain-joy">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:087E8B,100:2563EB&height=210&section=header&text=Hossain%20Joy&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=PHP%20%7C%20Laravel%20Developer&descSize=19&descAlignY=58&animation=fadeIn" width="100%" alt="Hossain Joy — PHP and Laravel Developer"/>
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+PHP+Developer;Laravel+%7C+Backend+Engineer;Building+Modern+Web+Applications;Docker+%7C+DevOps+%7C+System+Design;Always+Learning+Something+New" />
-
-<br/>
+### Building practical web applications with clean, maintainable code.
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=hossain-joy&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<a href="https://github.com/hossain-joy?tab=followers">
-<img src="https://img.shields.io/github/followers/hossain-joy?label=Followers&style=for-the-badge&color=0e75b6" />
-</a>
-<a href="https://github.com/hossain-joy">
-<img src="https://img.shields.io/github/stars/hossain-joy?style=for-the-badge&color=yellow" />
-</a>
+  <a href="https://github.com/hossain-joy">
+    <img src="https://img.shields.io/badge/GitHub-hossain--joy-181717?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hossain-joy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=hossain-joy&style=flat-square&color=087E8B&label=Profile+Views" alt="Profile views"/>
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+---
 
-## About Me
+## 👋 About Me
 
-```yaml
-name       : MD. Ibrahim Hossain Joy
-role       : Full Stack PHP Developer
-focus      : Laravel | Backend | Clean Architecture
-learning   : Docker · DevOps · System Design
-location   : Bangladesh
-open_to    : Laravel & Open Source Collaboration
-```
+I'm **MD. Ibrahim Hossain Joy**, a Computer Science and Engineering student at Daffodil International University, Bangladesh, focused on backend development and modern web technologies.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+I enjoy turning real-world problems into practical software solutions, building reliable backend systems, and continuously improving my engineering skills.
 
-## Connect With Me
+- 💻 **Primary focus:** PHP, Laravel, and backend development
+- 🌐 **Web development:** Building full-stack applications and REST APIs
+- 🗄️ **Databases:** MySQL and PostgreSQL
+- ⚙️ **Currently exploring:** Docker, DevOps, and system design
+- 🤖 **Interested in:** AI-powered applications and software architecture
+- 🤝 **Open to:** Junior developer opportunities and meaningful open-source collaboration
 
-<p align="left">
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="YOUR_FACEBOOK">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+## 🛠️ Tech Stack
 
-## Currently Building
+**Backend Development**
 
-<table>
-<tr>
-<td>Laravel E-Commerce Platform</td>
-<td>AI-powered Laravel Applications</td>
-</tr>
-<tr>
-<td>Admin Dashboards</td>
-<td>Dockerizing Laravel Projects</td>
-</tr>
-<tr>
-<td colspan="2">Learning Advanced Backend Architecture</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
-## Tech Stack
-
-**Backend**
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" alt="Backend technologies"/>
 </p>
 
-**Frontend**
+**Frontend Development**
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
 </p>
 
-**Database**
+**Databases**
+
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma&theme=dark" alt="Database technologies"/>
 </p>
 
-**DevOps & Tools**
+**Tools & Infrastructure**
+
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,npm&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm&theme=dark" alt="Development tools"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+**Other Languages**
 
-## Featured Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" alt="Programming languages"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### HERish 2.0
-A modern jewelry e-commerce platform built with PHP, providing a clean shopping experience.
+### 💍 HERish 2.0
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+A jewelry e-commerce project focused on presenting products through a clean and user-friendly shopping experience.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hossain-joy/herish2.0)
+**Highlights**
+- Product browsing and presentation
+- E-commerce interface development
+- Database-backed application development
+
+**Technologies**
+
+`PHP` `MySQL` `JavaScript`
+
+[View Repository →](https://github.com/hossain-joy/herish2.0)
 
 </td>
 <td width="50%" valign="top">
 
-### Food Delivery Service
-A food ordering platform featuring restaurant management, user authentication, and responsive design.
+### 💰 SpendSense
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+A personal finance application designed to help users understand their spending, manage budgets, and track their expenses.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hossain-joy/FoodDeliveryService)
+**Focus**
+- Personal expense tracking
+- Budget management
+- Daily spending awareness
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+**Technologies**
 
-### BD Contest Hub
-A web platform that helps students discover and participate in programming contests across Bangladesh.
+`TypeScript` `Web Development`
 
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/jeba234/BD_contest_Hub)
-
-</td>
-<td valign="top">
-
-### SpendSense
-A personal expense tracker that helps users manage budgets and monitor daily spending.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hossain-joy/spendsense)
+[View Repository →](https://github.com/hossain-joy/spendsense)
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-### Kanban Table
-A productivity application with a modern Kanban interface for organizing tasks and projects.
+### 🍔 Food Delivery Service
 
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+A food ordering application project focused on connecting the customer-facing ordering experience with restaurant operations.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hossain-joy/kanban-table)
+**Focus**
+- Food ordering workflows
+- User authentication
+- Responsive web interfaces
+
+**Technologies**
+
+`TypeScript` `Web Development`
+
+[View Repository →](https://github.com/hossain-joy/FoodDeliveryService)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
-### Hybrid Compression System
-An OS project implementing a hybrid file compression solution by a collaborative team.
+### 📋 Kanban Table
 
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+A task management application built around the Kanban approach to help users organize work and visualize task progress.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/nomancsediu/Hybrid-Compression-System)
+**Focus**
+- Task organization
+- Workflow visualization
+- Productivity-focused interface
+
+**Technologies**
+
+`JavaScript` `Web Development`
+
+[View Repository →](https://github.com/hossain-joy/kanban-table)
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+> Project descriptions and technology labels should match the actual implementation in each repository. Add live-demo links when a project is deployed.
 
-## GitHub Analytics
+---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hossain-joy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossain-joy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="41%"/>
-</p>
+## 📊 GitHub Statistics
 
-## GitHub Streak
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=hossain-joy&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
-</p>
+<a href="https://github.com/hossain-joy">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hossain-joy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=2DD4BF" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/hossain-joy">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossain-joy&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
+</a>
 
-## Contribution Graph
+<br/>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-joy&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=hossain-joy&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub contribution streak"/>
 
-<!-- ## GitHub Trophies
+</div>
 
-<p align="center">
-<img src="https://github-trophies.vercel.app/?username=hossain-joy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
-</p> -->
+---
 
-## GitHub Contribution Snake
+## 📈 Contribution Activity
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/hossain-joy/hossain-joy/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-joy&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=2DD4BF&area=true&area_color=0C4A6E&hide_border=true" width="100%" alt="GitHub contribution activity"/>
 
-## Developer Quote
+</div>
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+## 🎯 What I'm Working Toward
+
+- Strengthening my PHP and Laravel skills through practical projects.
+- Building secure, maintainable backend applications and APIs.
+- Improving my understanding of databases, testing, and software architecture.
+- Learning Docker and DevOps practices to improve application deployment.
+- Exploring ways to integrate AI into useful, real-world applications.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning from other developers, exchanging ideas, and collaborating on useful software projects.
+
+<div align="center">
+
+<a href="https://github.com/hossain-joy">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/hossain-joy/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+*Thanks for visiting my profile. Let's build something useful!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:087E8B,100:2563EB&height=110&section=footer" width="100%" alt="Footer"/>
+
+</div>
